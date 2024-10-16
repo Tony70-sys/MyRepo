@@ -4,7 +4,7 @@
 - 010
 - 020
 - 030
-##**This is a repo just for testing.**
+## **This is a repo just for testing.**
 
 + Anthony
 + Josua
